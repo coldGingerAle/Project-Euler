@@ -1,2 +1,2 @@
 # Project-Euler
-Old Attempts at Project Euler Problems Coded in Java
+These are my solutions to some of the problems given on the website https://projecteuler.net.
