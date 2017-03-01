@@ -1,5 +1,7 @@
 public class Problem10Sieve {
 	
+	/* Problem 10, but done with Sieve of Eratosthenes algorithm. Dramatically faster */
+	
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
 

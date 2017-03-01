@@ -29,7 +29,6 @@ public class Problem11 {
 		try {
 			scanner = new Scanner(new File("Problem11data.txt"));
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
